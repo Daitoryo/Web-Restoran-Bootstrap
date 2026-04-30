@@ -1,0 +1,14 @@
+.navbar {
+    background: rgba(0,0,0,0.9);
+    border-bottom: 1px solid #333;
+    backdrop-filter: blur(10px);
+}
+
+.footer-top {
+    background: rgba(0,0,0,0.9);
+}
+
+body {
+    background: linear-gradient(to bottom, rgba(0,0,0,0.8), rgba(0,0,0,0.5)), url('Caravan_CG_Interiors_924.webp');
+    background-size: cover; background-position: center; 
+}

@@ -1,0 +1,13 @@
+.navbar {
+    background: rgba(0,0,0,0.9);
+    border-bottom: 1px solid #333;
+    backdrop-filter: blur(10px);
+}
+
+.footer-top {
+    background: rgba(0,0,0,0.9);
+}
+
+.contact-card {
+    background: #ffffff; border: 1px solid #ffffff; border-radius: 15px; padding: 30px;
+}
